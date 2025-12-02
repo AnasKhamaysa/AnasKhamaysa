@@ -18,7 +18,7 @@ I enjoy building tools, exploring vulnerabilities, and improving my problem-solv
 
 ### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB_Certificate-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)(https://github.com/AnasKhamaysa/Oracle-certificate.git)
+![Oracle](https://github.com/AnasKhamaysa/Oracle-certificate.git)
 
 ### 🔹 Operating Systems / Tools
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
