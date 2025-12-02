@@ -71,7 +71,7 @@ Reads log files and detects suspicious IP behavior.
 ### 🌐 **3. Personal Portfolio Website**
 A responsive portfolio website to showcase my work.  
 **Tech:** HTML, CSS, JavaScript  
-➡️ *Repo:* (Add link)
+➡️ *Repo:* ([Add link](https://github.com/AnasKhamaysa/portfolio.git))
 
 ---
 
