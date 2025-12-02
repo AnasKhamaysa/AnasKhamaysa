@@ -36,13 +36,11 @@ I enjoy building tools, exploring vulnerabilities, and improving my problem-solv
 ---
 
 ## 🌐 Social Media
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnasKhamaysa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anas.ahmad.khamaysa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anas.__.v.i.p/)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/USERNAME)
-
-> *(Replace `USERNAME` with your actual profile names.)*
 
 ---
 
@@ -78,10 +76,10 @@ A responsive portfolio website to showcase my work.
 ---
 
 ## 📊 GitHub Stats
-(تظهر تلقائياً عند وضع الـ USERNAME)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnasKhamaysa&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKhamaysa&layout=compact&theme=github_dark)
 
 ---
 
