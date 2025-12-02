@@ -75,10 +75,19 @@ A responsive portfolio website to showcase my work.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Working)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnasKhamaysa&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnasKhamaysa&layout=compact&theme=github_dark)
+### 🔥 GitHub Streak
+![](https://streak-stats.demolab.com?user=AnasKhamaysa&theme=tokyonight)
+
+### 📈 Summary Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasKhamaysa&theme=github_dark)
+
+### 🧠 Most Used Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasKhamaysa&theme=github_dark)
+
+### 📋 Profile Details
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasKhamaysa&theme=github_dark)
 
 ---
 
